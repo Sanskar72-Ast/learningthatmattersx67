@@ -252,6 +252,20 @@
 .home-text72 {
   font-weight: 500;
 }
+.home-text34 {
+  color: #551A8B;
+  text-decoration: underline;
+}
+.home-text34 a:hover{
+  opacity:80%
+}
+.home-text49 {
+  color: #551A8B;
+  text-decoration: underline;
+}
+.home-text49 a:hover{
+  opacity:80%
+}
 .home-text74 {
   font-weight: 500;
 }
